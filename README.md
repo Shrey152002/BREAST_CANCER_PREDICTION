@@ -58,12 +58,12 @@ pip install numpy pandas sklearn tensorflow keras matplotlib seaborn jupyter
 ## 🚀 Getting Started
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Shrey152002/ML-DL-PROJECTS.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd [repository-name]
+cd ML-DL-PROJECTS
 ```
 
 3. Launch Jupyter Notebook:
